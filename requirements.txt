@@ -1,0 +1,6 @@
+tqdm
+datasets
+pandas
+openai
+gym
+beautifulsoup4
